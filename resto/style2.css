@@ -1,0 +1,88 @@
+body{
+    background: url(https://wallpaperaccess.com/full/3692584.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    }
+    header{
+    color: rgb(253, 252, 252);
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    font-family: cursive;
+    background-color:rgba(177, 176, 176, 0.075);
+    }
+    head{
+    float: inline-start;
+    color: blue;
+    font-family: cursive;
+    }
+    nav{
+    float: center;
+    border-top: 0.8rem;
+    border-bottom: 0.8rem;
+    }
+    li{
+    display: initial;
+    padding: 1rem;
+    }
+    li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    }
+    .active{
+    color: gold;
+    }
+    .container{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 1%;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 100px;
+}
+showcase h1{
+color:rgb(194, 173, 173);
+font-family: cursive;
+text-align: center;
+}
+showcase h3{
+color:rgb(194, 173, 173);
+text-align: center;
+letter-spacing: 2px;
+}
+.category{
+color:white;
+margin-top: 1%;
+display: flex;
+text-align: center;
+font-family: cursive;
+}
+img{
+width: 50%;
+border-radius: 100%;
+height: 150px;
+}
+h4{
+font-size: 1rem;
+margin: 3%;
+}
+footer{
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color:transparent;
+color: white;
+text-align: center;  
+}
+.btn{
+background-color:green;
+padding: 1rem;
+border: none;
+border-radius: 8px;
+margin-top: 3%;
+}
